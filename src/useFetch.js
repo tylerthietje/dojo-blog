@@ -25,7 +25,7 @@ const useFetch = (url) => {
             setIsPending(false);
             setError(err.message);
           })
-        }, 1000);
+        }, 0);
       }, [url]) // dependency array limits when the useEffect hook will render the component
     
   return { data, isPending, error }
