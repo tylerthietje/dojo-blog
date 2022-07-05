@@ -1,3 +1,5 @@
+import React from 'react';
+
 const BlogList = ({ blogs, title }) => {
   // Destructure the props by listing what props you want to pass in. In this case, listing { blogs, title } instead of props will bring in props.blogs and props.title so you don't have to create variables to store these in.
 
