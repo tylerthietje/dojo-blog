@@ -17,6 +17,12 @@
       "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio deleniti fuga vitae aut voluptatem expedita temporibus sunt aperiam. Nisi delectus, ipsam eos officiis sed velit laboriosam illo fugiat quisquam pariatur odio? Distinctio ullam harum animi enim deleniti, excepturi corporis dicta mollitia nulla eaque, commodi delectus numquam aspernatur modi, nisi nemo!",
       "author": "Yoshi",
       "id": 12
+    },
+    {
+      "title": "Another Test Blog",
+      "body": "We don’t make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.\n\nReact can also render on the server using Node and power mobile apps using React Native.",
+      "author": "Mario",
+      "id": 13
     }
   ]
 }
